@@ -1,6 +1,11 @@
 # database.py
-
 import sqlite3
+
+
+
+
+
+
 
 class Database:
     def __init__(self, db_file='your_database_file.db'):
